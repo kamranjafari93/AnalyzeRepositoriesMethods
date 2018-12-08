@@ -1,5 +1,5 @@
 # AnalyzeRepositoriesMethods
-This script analyze each given repository's methods in all commits and store functions in a CSV file which are modified and have additional parameters in comparison to previous commits. CSV file's row includes: Commit Hash,File Name,Old Function Signiture and New Function Signiture
+This script analyzes each given repository's methods in all commits and store functions in a CSV file which are modified and have additional parameters in comparison to previous commits. CSV file's rows include: Commit Hash,File Name,Old Function Signiture and New Function Signiture
 
 ## Table of contents
 * **[Requirements](#requirements)**
