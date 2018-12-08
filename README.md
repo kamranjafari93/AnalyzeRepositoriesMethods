@@ -9,7 +9,7 @@ This script analyzes each given repository's methods in all commits and store fu
 
 
 ## Requirements
-You should install followings ** globally **:
+You should install followings globally:
 
 - Python3
 - Git
