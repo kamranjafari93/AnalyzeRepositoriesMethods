@@ -8,7 +8,7 @@ This script analyzes each given repository's methods in all commits and store fu
 * **[Test](#test)**
 
 
-## REQUIREMENTS
+## Requirements
 You Should Install followings:
 
 - Python3
@@ -20,7 +20,7 @@ Now you need to add pydriller library to your python's libraries. Just run the f
 pip install pydriller
 ```
 
-## INSTALL
+## Install
 
 Just run the following command in cmd:
 
