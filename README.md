@@ -25,7 +25,7 @@ pip install pydriller
 Just run the following command in cmd:
 
 ```
-clone 
+clone https://github.com/kamranjafari93/AnalyzeRepositoriesMethods.git
 ```
 
 ## Tutorial
