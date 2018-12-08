@@ -27,17 +27,18 @@ Just run the following command in cmd:
 clone 
 ```
 
-## INSTALL
+## Tutorial
 
 Simply run the script in cmd:
 
 ```
 python src.py
 ```
-## Tutorial
 
-Now you need to enter an address. This may be a remote URL or a local one. For remote URL, enter a repositories' address like: https://github.com/ishepard/pydriller.git . For a local address, insert the root repository's address that contains .git directory. this address should be relative.
+Now you need to enter an address. This may be a remote URL or a local one. For remote URL, enter a repositories' address like: https://github.com/ishepard/pydriller.git . For a local address, insert the repository's root address that contains .git directory. This address should be relative.
 
 If everything goes right, you'll this message: "CSV FILE CREATED SUCCESSFULLY" and the CSV file would be created beside your script.
+
 If commits contain no method's modification in defined condition, you'll see this message: "No Result! Test Other Repositories" .
+
 If something goes wrong or you enter the address wrong, you'll see this message: "Execution Failed. Check your address and try again"
