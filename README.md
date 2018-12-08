@@ -9,7 +9,7 @@ This script analyzes each given repository's methods in all commits and store fu
 
 
 ## Requirements
-You Should Install followings:
+You should install followings ** globally **:
 
 - Python3
 - Git
@@ -25,12 +25,12 @@ pip install pydriller
 Just run the following command in cmd:
 
 ```
-clone https://github.com/kamranjafari93/AnalyzeRepositoriesMethods.git
+git clone https://github.com/kamranjafari93/AnalyzeRepositoriesMethods.git
 ```
 
 ## Tutorial
 
-Simply run the script in cmd:
+Simply run the script in cmd in src.py's directory:
 
 ```
 python src.py
