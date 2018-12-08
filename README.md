@@ -5,6 +5,7 @@ This script analyzes each given repository's methods in all commits and store fu
 * **[Requirements](#requirements)**
 * **[Install](#install)**
 * **[Tutorial](#tutorial)**
+* **[Test](#test)**
 
 
 ## REQUIREMENTS
@@ -42,3 +43,8 @@ If everything goes right, you'll this message: "CSV FILE CREATED SUCCESSFULLY" a
 If commits contain no method's modification in defined condition, you'll see this message: "No Result! Test Other Repositories" .
 
 If something goes wrong or you enter the address wrong, you'll see this message: "Execution Failed. Check your address and try again"
+
+
+## Test
+
+This script has been tested on several repositories including: https://github.com/akarnokd/RxJava2Interop and https://github.com/realm/realm-java and the results are included for download.
