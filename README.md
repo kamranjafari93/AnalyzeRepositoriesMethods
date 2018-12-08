@@ -40,11 +40,11 @@ Now you need to enter an address. This may be a remote URL or a local one. For r
 
 If everything goes right, you'll this message: "CSV FILE CREATED SUCCESSFULLY" and the CSV file would be created beside your script.
 
-If commits contain no method's modification in defined condition, you'll see this message: "No Result! Test Other Repositories" .
+If commits contain no method's modification in defined condition, you'll see this message: "No Result! Test Other Repositories".
 
-If something goes wrong or you enter the address wrong, you'll see this message: "Execution Failed. Check your address and try again"
+If something goes wrong or you enter the address wrong, you'll see this message: "Execution Failed. Check your address and try again".
 
 
 ## Test
 
-This script has been tested on several repositories including: https://github.com/akarnokd/RxJava2Interop and https://github.com/realm/realm-java and the results are included for download.
+This script has been tested on several repositories including: https://github.com/akarnokd/RxJava2Interop and https://github.com/realm/realm-java while the first one has a few commits but the latter one includes a plethora of commits. The results are included for view and download.
